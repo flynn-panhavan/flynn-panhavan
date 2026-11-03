@@ -60,19 +60,17 @@ Mindset: Learn → Explore → Build → Improve
 
 I believe AI is more than just a chatbot. It's a powerful development partner that helps transform ideas into real-world applications, automate repetitive tasks, and create solutions that improve everyday life.
 
-## 🐍 Contribution Snake
-
 <div align="center">
   <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="Contribution Snake" width="100%"/>
 </div>
 
-## 🌐 Connect With Me
 
 <div align="center">
   <a href="https://github.com/flynn-git">
     <img src="https://img.shields.io/badge/GitHub-Follow%20Me-181717?style=for-the-badge&logo=github"/>
   </a>
 </div>
+
 
 <div align="center">
   <h3>⚡ Explore. Experiment. Build. Innovate.</h3>
