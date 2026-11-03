@@ -66,7 +66,7 @@ I believe AI is more than just a chatbot. It's a powerful development partner th
 
 
 <div align="center">
-  <a href="https://github.com/flynn-git">
+  <a href="https://github.com/flynn-panhavan">
     <img src="https://img.shields.io/badge/GitHub-Follow%20Me-181717?style=for-the-badge&logo=github"/>
   </a>
 </div>
